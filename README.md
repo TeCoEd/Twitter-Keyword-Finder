@@ -7,7 +7,7 @@ Project Home Page: http://www.tecoed.co.uk/twitter-keyword-finder.html
 
 Hack in action: https://www.youtube.com/watch?v=PibTiHXPeaM
 
-![](Images/cover.png)
+![](Images/cover.jpg)
 
 
 (The project requires Twitter API keys as well as Google Sheets authentication, details how to set up in links below)
