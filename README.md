@@ -12,11 +12,16 @@ https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-sp
 https://www.raspberrypi.org/learning/getting-started-with-the-twitter-api/
 
 
-Updates and Library Requirements 
+# Updates and Library Requirements 
 
 Open the LX Terminal and type:
+
 Sudo apt-get update
+
 Sudo apt-get upgrade
+
 Sudo pip3 install –upgrade gspread
-Sudo apt-get install python3-oauth2client
+
+sudo apt-get install python3-oauth2client
+
 Sudo pip3 install –upgrade oauth2client
