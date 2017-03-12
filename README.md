@@ -16,11 +16,11 @@ https://www.raspberrypi.org/learning/getting-started-with-the-twitter-api/
 
 Open the LX Terminal and type:
 
-Sudo apt-get update
+sudo apt-get update
 
-Sudo apt-get upgrade
+sudo apt-get upgrade
 
-Sudo pip3 install –upgrade gspread
+sudo pip3 install –upgrade gspread
 
 sudo apt-get install python3-oauth2client
 
