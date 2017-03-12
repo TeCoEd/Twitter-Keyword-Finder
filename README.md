@@ -7,6 +7,9 @@ Project Home Page: http://www.tecoed.co.uk/twitter-keyword-finder.html
 
 Hack in action: https://www.youtube.com/watch?v=PibTiHXPeaM
 
+![](Images/cover.png)
+
+
 (The project requires Twitter API keys as well as Google Sheets authentication, details how to set up in links below)
 
 https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html
